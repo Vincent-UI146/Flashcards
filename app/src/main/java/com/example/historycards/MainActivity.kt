@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         // Welcome message and app description
-        val welcomeMessage = findViewById<TextView>(R.id.welcomeMessage)
+        val welcomeMessage = findViewById<TextView>(R.id.welcome_message)
         welcomeMessage.text = getString(R.string.welcome_message)
 
         // Start button to begin the quiz
