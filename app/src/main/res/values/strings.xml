@@ -1,0 +1,4 @@
+<resources>
+    <string name="history_cards">History Flashcards</string>
+    <string name="welcome_message">Welcome to History Flashcards!\n\nTest your knowledge of historical facts with this simple true/false quiz.\n\nThere are 5 questions waiting for you!</string>
+</resources>
